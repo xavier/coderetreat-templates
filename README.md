@@ -21,7 +21,9 @@ Be sure to run "npm install" in the javascript or coffeescript folder prior to r
 I also used [mocha](http://visionmedia.github.io/mocha/) as the test harness.  You need to install this
 as a global npm module using the command "npm install -g mocha".  To run the tests simply issue the command "mocha" from the javascript or coffeescript folders.
 
-For csharp I used [Xamarin Studio](http://xamarin.com/) version 4.0.9 (build 12).  The .sln files are 
+For csharp I used [Xamarin Studio](http://xamarin.com/) version 4.0.9 (build 12).  The .sln files are
 supposed to be compatible with Microsoft Visual Studio.  I can't say that I've tried myself.  :)
 
-For elixr I used [Elixir](http://elixir-lang.org/) version 0.9.3.  Run the test by issuing the command "elixir game.exs".  
+Elixir: version 0.11.2
+
+Erlang: R16
